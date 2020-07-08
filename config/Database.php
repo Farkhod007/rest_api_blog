@@ -3,7 +3,7 @@
 class Database {
     // DB Params
     private $host = 'localhost';
-    private $db_name = 'rest_api_php';
+    private $db_name = 'rest_api_blog';
     private $username = 'root';
     private $password = '';
     private $conn;
